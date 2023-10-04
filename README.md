@@ -1,16 +1,22 @@
-### Hi there 👋
+### Boas vindas a você que veio ao meu perfil ☕
 
-<!--
-**ProfeAdelaide/ProfeAdelaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Adelaide Borges
 
-Here are some ideas to get you started:
+- Iniciei meus estudos na plataforma Alura
+- Sou professora de Pensamento Computacional
+- E estou aprimorando meus conhecimentos voltados para as linguagens de programação
+- Utilizarei esse espaço como forma de organização e apresentação das minhas criações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Para contato comigo 📧
+
+borges.adelaide@escola.pr.gov.br
+
+Ou senão...na sala de aula
+
+
+![](https://media.tenor.com/XRwzrZ3dHgUAAAAC/teach-study.gif)
+
+
+
+
