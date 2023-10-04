@@ -2,7 +2,7 @@
 
 Meu nome é Adelaide Borges
 
-- Iniciei meus estudos na plataforma Alura
+- Iniciei meus estudos na plataforma [Alura](https://www.alura.com.br)
 - Sou professora de Pensamento Computacional
 - E estou aprimorando meus conhecimentos voltados para as linguagens de programação
 - Utilizarei esse espaço como forma de organização e apresentação das minhas criações
